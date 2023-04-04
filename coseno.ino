@@ -1,3 +1,7 @@
+// Por Roberto A. Zavala
+// https://github.com/QuiahEditorial
+// Libro : https://www.amazon.com.mx/dp/B074TTGLL2
+// 🙏🏼    : DNv7acPAeVBhTXbKv26itJecPG1SPy2o4F     tip with Dogecoin
 
 // Sea la función coseno aproximada por serie ed taylor
 // Cos(x) = 1 - (x^2 / 2!) + (x^4 / 4!) - (x^6 / 6!) + (x^8 / 8!)...
